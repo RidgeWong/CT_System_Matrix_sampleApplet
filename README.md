@@ -5,7 +5,7 @@
 * [Background](#Background)
 * [Install](#Install)
 * [Example](#Example)
-  * [How to use](#How to use)
+	* [How to use](#How to use)
 * [References](#References)
 * [License](#License)
 
