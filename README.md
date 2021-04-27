@@ -33,7 +33,7 @@ Just open the "CTProjVisible.m", and then click Run.
 
 There are three panel:
 
-1. The first is a axes, it has a 8X8 grid that represents 8 pixels;
+1. The first is an axes, it has a 8X8 grid that represents 8 pixels;
 2. The Scaled Color Image panel, it uses different color to distinguish if a given ray is passing through a specific pixel;
 3. The Intersection Data panel, this table lists the length of the given ray intersection with a specific pixel square;
 
